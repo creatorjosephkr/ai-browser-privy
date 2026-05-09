@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-05-09",
+  "downloadUrl": "https://github.com/creatorjoseph-cloud/ai-browser-privy/releases",
+  "changes": [
+    "로컬 AI 프로바이더 자동 감지 (Ollama, LM Studio, vLLM)",
+    "웹 브라우저 내장 및 화면 공유 기능",
+    "웹캠 및 연속성 카메라 지원",
+    "다중 문서 형식 분석 (PDF, DOCX, XLSX, PPTX, TXT, MD)",
+    "실시간 수학/마크다운 렌더링",
+    "한영 다국어 지원"
+  ]
+}
