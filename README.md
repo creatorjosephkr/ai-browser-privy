@@ -55,11 +55,6 @@
 - **macOS (권장)**: Intel, Apple Silicon(M1/M2/M3) 지원
 - **Windows / Linux**: 빌드 설정에 따라 NSIS/ AppImage 설치 파일 가능
 
-### 🚀 설치 및 실행
-1. `npm install`로 의존성을 설치합니다.
-2. `npm run start`로 Electron 앱을 실행합니다.
-3. 모델 서버가 필요하면 Ollama/LM Studio/vLLM를 설치하고 실행합니다.
-4. 앱이 실행 중인 서버를 자동 감지하거나, 설정에서 직접 베이스 URL과 모델을 입력합니다.
 
 ### 🧩 사용 예시
 - 화면 공유를 시작한 뒤, 원하는 웹 페이지나 데스크톱 화면을 열고 AI에게 질문하세요.
@@ -74,11 +69,6 @@
 - 웹캠 / 연속성 카메라 입력 화면
 - 첨부 파일 분석 결과와 수학/마크다운 렌더링 화면
 - 설정 화면과 프로바이더 선택 화면
-
-### 📦 개발자용 실행
-- `npm run web`: 로컬 서버만 실행
-- `npm run build`: macOS용 `.dmg` 빌드
-- `npm test`: Jest 테스트 실행
 
 ---
 
@@ -120,11 +110,6 @@
 - **macOS (recommended)**: Intel and Apple Silicon (M1/M2/M3)
 - **Windows / Linux**: Supported via NSIS/AppImage build targets in configuration
 
-### 🚀 Installation & usage
-1. Install dependencies with `npm install`.
-2. Run the Electron app with `npm run start`.
-3. If needed, install and start a local model provider such as Ollama, LM Studio, or vLLM.
-4. The app will auto-detect the running provider, or you can configure base URL/model manually in settings.
 
 ### 🧩 Usage examples
 - Start screen sharing, open the page or desktop content you want, and ask the AI a question.
@@ -140,10 +125,6 @@ Add screenshots for the following app views in release or documentation material
 - Attached file analysis and math/markdown rendering
 - Settings and provider selection screens
 
-### 📦 Developer commands
-- `npm run web`: Start the local server only
-- `npm run build`: Build macOS `.dmg`
-- `npm test`: Run Jest tests
 
 ---
 **Developer**: CREATOR Joseph (크리에이터 요셉)  creatorjoseph@kakao.com
