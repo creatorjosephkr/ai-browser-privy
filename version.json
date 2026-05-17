@@ -1,14 +1,15 @@
 {
-  "version": "1.0.0",
-  "latestVersion": "1.0.0",
-  "releaseDate": "2026-05-09",
-  "downloadUrl": "https://github.com/creatorjoseph-cloud/ai-browser-privy/releases",
+  "version": "1.1.0",
+  "latestVersion": "1.1.0",
+  "releaseDate": "2026-05-17",
+  "downloadUrl": "https://github.com/creatorjosephkr/ai-browser-privy/releases",
   "changes": [
-    "로컬 AI 프로바이더 자동 감지 (Ollama, LM Studio, vLLM)",
-    "웹 브라우저 내장 및 화면 공유 기능",
-    "웹캠 및 연속성 카메라 지원",
-    "다중 문서 형식 분석 (PDF, DOCX, XLSX, PPTX, TXT, MD)",
-    "실시간 수학/마크다운 렌더링",
-    "한영 다국어 지원"
+    "페르소나 수정 (역할에 빠지지 않고 좀 더 친근감 있는 대화 유도)",
+    "AI의 인터넷 검색 기능 개선 (필요할 때 필요한 정보만 검색)",
+    "브라우저 영역 펼치고 닫기 기능 추가 (설정에서 기본 화면 선택 가능)",
+    "챗봇 이름 입력 기능 추가 (Privy는 앱 이름이므로 사용자의 취향에 맞는 챗봇 이름 사용 지원)",
+    "대화창 사용 언어 인식 사용자와 같은 언어 사용하여 응답하도록 설정",
+    "추가/개선 기능의 원활한 작동을 위한 코드 수정/보완",
+    "카카오뱅크 후원 배너 추가"
   ]
 }
