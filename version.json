@@ -1,12 +1,16 @@
 {
   "version": "1.1.0",
-  "latestVersion": "1.1.1",
-  "releaseDate": "2026-05-17",
+  "latestVersion": "1.1.2",
+  "releaseDate": "2026-05-18",
   "downloadUrl": "https://github.com/creatorjosephkr/ai-browser-privy/releases",
   "changes": [
-    "앱 새로고침 버튼 추가 (우측 상단 헤더)",
-    "속도가 느린 컴퓨터를 위한 페이지 갱신 속도 개선",
-    "윈도우즈용 앱의 창 모서리 라운드 처리",
-    "카카오뱅크 후원 QR 이미지를 SVG에서 PNG로 교체"
+    "1. 대화창 크기 자동 대응: 브라우저 영역을 닫고 대화창만 사용할 때 창 크기를 늘리면 대화창이 함께 늘어나도록 개선",
+    "   Responsive chat panel width: When using the app in chat-only mode, the chat panel now expands to fill the window when it is resized",
+    "2. 대화 내용 유지: 앱을 종료하고 다시 실행해도 이전 대화 내용이 그대로 복원됨. 대화 초기화 버튼을 누르기 전까지 기록 보존",
+    "   onversation persistence: Chat history is preserved across app restarts. Conversations are restored automatically until the user manually clears them",
+    "3. URL 전달 토글 추가: 대화창 옵션에 'URL전달' 켜기/끄기 항목 추가. 스크린샷 없이 현재 URL만 AI에게 전달하고 싶을 때 활용 가능",
+    "   URL forwarding toggle: A new URL Forward on/off toggle has been added to the chat options bar, allowing users to send the current URL to the AI without a screenshot",
+    "4. 다국어 응답 인식 강화: 사용자가 한국어 외의 언어로 대화할 때 챗봇이 해당 언어로 응답하도록 언어 감지 규칙 강화",
+    "   Improved multilingual response: Strengthened language detection rules so the chatbot responds in the same language the user writes in, not just Korean or English"
   ]
 }
