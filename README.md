@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="/joseph.png" width="60%" alt="크리에이터 요셉" /><br />
+  "전문 개발자가 아닌 바이브 코딩을 배우는 반백살 아저씨입니다."
+</p>
+
+<br />
+<br />
+<br />
+
 <img width="1652" height="1016" alt="image" src="https://github.com/user-attachments/assets/5be09788-16a7-4d4e-9d6a-47edb04da2ec" />
 
 <img width="1652" height="1016" alt="image" src="https://github.com/user-attachments/assets/ca23eae6-94eb-401d-b0b3-1b4ad7f6c868" />
